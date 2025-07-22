@@ -1,0 +1,1 @@
+A payment gateway is a technology that securely processes online payments by acting as a bridge between a customer's bank and the merchant. It encrypts sensitive information like credit card numbers to ensure secure transactions. Common examples include Razorpay, Paytm, and PhonePe.

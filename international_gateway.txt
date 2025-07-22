@@ -1,0 +1,1 @@
+An international payment gateway allows businesses to accept payments from customers across the globe in multiple currencies. It supports global credit/debit cards and often includes fraud detection systems. Examples include PayPal, Stripe, and 2Checkout.
